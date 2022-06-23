@@ -62,3 +62,5 @@ json/.*.swp
 do_main_cbmvnet.sh
 
 __pycache__/
+*.xml
+.idea
